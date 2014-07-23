@@ -1,0 +1,11 @@
+111c5bfc1e4a04bcfced0e37b4541a66 *DESCRIPTION
+6d00c19e27bd140cd80d81fa180fa511 *NAMESPACE
+594dcc4ecd79f28562a9b1f014d198de *R/rowr.R
+3136f9ae889c684bd923b76fc3a4214e *man/buffer.Rd
+1d39517d37748eac39d767b1394ea651 *man/cbind.fill.Rd
+87851827812f87c1aae764f438a008ca *man/coalesce.Rd
+6e3906b6692be95b082b9e2426fc45ce *man/count.Rd
+d99bb9db16c527ca3de6b14713b7a0ee *man/len.Rd
+37eac899c66bdfe64055ba5062542a54 *man/rowr.Rd
+e1ffed79551b5cb1ff5eeff84a6da1c1 *man/rows.Rd
+e0c2b3f45ba19a3d46c055425635bfc3 *man/vectorize.Rd

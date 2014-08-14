@@ -1,8 +1,9 @@
-111c5bfc1e4a04bcfced0e37b4541a66 *DESCRIPTION
+b819952eda59ed083863694abde6cdfa *DESCRIPTION
 6d00c19e27bd140cd80d81fa180fa511 *NAMESPACE
-594dcc4ecd79f28562a9b1f014d198de *R/rowr.R
-3136f9ae889c684bd923b76fc3a4214e *man/buffer.Rd
-1d39517d37748eac39d767b1394ea651 *man/cbind.fill.Rd
+a8f8cb41f950a23d958fba2d165192d9 *R/rowr.R
+b0a1937c20b415c57a3da99ab7ee8803 *man/as2.Rd
+6081b25eeb3e112790f911b20621f59f *man/buffer.Rd
+faa65b308625b4e835c6aef8b67983dc *man/cbind.fill.Rd
 87851827812f87c1aae764f438a008ca *man/coalesce.Rd
 6e3906b6692be95b082b9e2426fc45ce *man/count.Rd
 d99bb9db16c527ca3de6b14713b7a0ee *man/len.Rd
